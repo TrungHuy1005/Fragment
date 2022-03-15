@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Toyota">
+        <item>https://www.nydailynews.com/resizer/rWBDJx3hwAawNV9G1fGgbptnSHc=/1400x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/QI2HMRUR2T3KY7BGCKS2UUNZVQ.jpg</item>
+    </string-array>
+    <string-array name="Kia">
+    </string-array>
+    <string-array name="Mercedes">
+    </string-array>
+    <array name="images">
+        <item>@array/Toyota</item>
+        <item>@array/Kia</item>
+        <item>@array/Mercedes</item>
+    </array>
+</resources>
